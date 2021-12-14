@@ -1,0 +1,10 @@
+com\visualpathit\account\utils\RabbitMqUtil.class
+com\visualpathit\account\beans\Components.class
+com\visualpathit\account\service\ProducerServiceImpl.class
+com\visualpathit\account\utils\MemcachedUtils.class
+com\visualpathit\account\controller\ElasticSearchController.class
+com\visualpathit\account\service\ProducerService.class
+com\visualpathit\account\service\ConsumerService.class
+com\visualpathit\account\controller\FileUploadController.class
+com\visualpathit\account\service\ConsumerServiceImpl.class
+com\visualpathit\account\utils\ElasticsearchUtil.class
